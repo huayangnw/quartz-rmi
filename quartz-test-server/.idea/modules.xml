@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../quartz-test-client/quartz-test-client.iml" filepath="$PROJECT_DIR$/../quartz-test-client/quartz-test-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/quartz-test-server.iml" filepath="$PROJECT_DIR$/.idea/quartz-test-server.iml" />
+    </modules>
+  </component>
+</project>
